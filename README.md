@@ -1,8 +1,8 @@
-# kubectl-image
+# sentry-kubernetes-image
 
 ```
 docker build \
-  -t zillownyc/kubectl:1.0.0 \
-  -t zillownyc/kubectl:1.0 \
-  -t zillownyc/kubectl:latest .
+  -t zillownyc/sentry-kubernetes:1.0.0 \
+  -t zillownyc/sentry-kubernetes:1.0 \
+  -t zillownyc/sentry-kubernetes:latest .
 ```
